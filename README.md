@@ -17,7 +17,7 @@ A simple movie recommendation system using collaborative filtering and the Movie
 - Recommends top 10 movies similar to a target
 
 ## Example
-🎥 Top 10 movies similar to Star Wars (1977):
+Top 10 movies similar to Star Wars (1977):
 
 Empire Strikes Back
 
